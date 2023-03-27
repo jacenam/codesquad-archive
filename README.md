@@ -14,23 +14,24 @@
 
 | Weeks  | Mission                                                      | Progress   |
 | :----- | :----------------------------------------------------------- | :--------- |
-| Week 1 | [IDE, Variables & Functions]() / [Algorithms]() / [Array Methods]() | ✅ **Done** |
-| Week 2 | [Hash Map]() / [Algorithms]() / [Debugging, Stack & Que]()   | ✅ **Done** |
-| Week 3 | [Callback, Synchronous & Asynchronous]() / [Algorithms]() / [HTML & CSS, DOM]() | ✅ **Done** |
-| Week 4 | [Git & Github]() / [Algorithms]() / [Sort & Search Algorithms, Recursive Function]() | ✅ **Done** |
+| 1주 차 | [개발환경, 변수와 함수]() / [배열 고차함수]() / [알고리즘]() | ✅ **완료** |
+| 2주 차 | [해시맵]() / [디버깅, 스택과 큐]() / [알고리즘]()            | ✅ **완료** |
+| 3주 차 | [콜백, 동기/비동기]() / [HTML & CSS, DOM]() / [알고리즘]()   | ✅ **완료** |
+| 4주 차 | [Git & Github]() / [정렬/탐색 알고리즘, 재귀함수]() / [알고리즘]() | ✅ **완료** |
 
 ### WIL 
 
 - 
+- 
 
 ### 최종 코딩 테스트
 
-| Steps  | Output                                                     | Progress   |
-| ------ | ---------------------------------------------------------- | ---------- |
-| Step 1 | [Printing on console]()                                    | ✅ **Done** |
-| Step 2 | [Printing Sun, Earth, Moon on console]()                   | ✅ **Done** |
-| Step 3 | [Printing solar system on console]()                       | ✅ **Done** |
-| Step 3 | [(additional) Printing animated solar system on console]() | ✅ **Done** |
+| Steps | Output                                                       | Progress   |
+| ----- | ------------------------------------------------------------ | ---------- |
+| 1단계 | [콘솔로 원 그리기]()                                         | ✅ **완료** |
+| 2단계 | [지구, 태양, 달의 위치 표시하기]()                           | ✅ **완료** |
+| 3단계 | [콘솔 태양계 출력 프로그램 완성하기]()                       | ✅ **완료** |
+| 4단계 | [(추가 기능 구현) 콘솔에서 애니메이션으로 태양계 출력하기]() | ✅ **완료** |
 
 <br>
 
